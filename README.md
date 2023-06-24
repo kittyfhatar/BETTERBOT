@@ -1,2 +1,2 @@
 # BETTERBOT
-betterbot 1.0
+betterbot 1.0 PYTHON
